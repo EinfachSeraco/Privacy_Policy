@@ -1,1 +1,3 @@
 # Privacy_Policy
+
+CreatorStack Privacy Policy: We collect your Instagram profile information (like username and profile picture) to enable community management features within the app. We use Firebase and Google Analytics to improve app performance. We do not sell your data.
